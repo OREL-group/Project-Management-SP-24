@@ -1,5 +1,5 @@
 ## Quiz 1: Introduction to Github and Version Control
-__To be completed in one week (for Spring 2024, TBA).__ 
+__To be completed in one week (for Spring 2024, February 8).__ 
 
 __1)__ before the assignment is issued on June 21, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. Please [e-mail the instructor](mailto:balicea@illinois.edu) with your Github handle (URL of your account after the ".com/") in the body. Please check your e-mail (Main and Spam folders) for the invite and accept. If you cannot find the invite, contact me and I will resend.
 
