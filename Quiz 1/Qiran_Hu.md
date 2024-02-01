@@ -8,7 +8,8 @@
   </thead>
 </table>
 
-$$ E = mc^2 $$
+
+This is a formula -> $$ E = mc^2 $$
 
 
 
