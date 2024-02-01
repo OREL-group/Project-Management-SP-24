@@ -9,7 +9,7 @@
 </table>
 
 
-This is a formula  
+
 $$ E = mc^2 $$
 
 
