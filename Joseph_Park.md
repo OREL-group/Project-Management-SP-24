@@ -13,17 +13,17 @@
 
 
 <p align="center">
-  <img src= https://imgur.com/a/9KWG8cJ><BR>
+  <img src= "https://imgur.com/a/9KWG8cJ" alt="UIUC Logo"><BR>
   UIUC Logo
 </p>
 
 
 
-Name, Nationality, Club
+Name, Nationality, Club\n
 ------------------------------------------------------
-Christian Ronaldo, Portugal, Al-Nassar FC
-Kangin Lee, South Korea, Paris Saint-Germain
-Kylian Mbappé, France, Paris Saint-Germain
-Mohamed Salah, Egypt, Liberpool
-Luca Modric, Croatia, Real Madrid
+Christian Ronaldo, Portugal, Al Nassar FC\n
+Kangin Lee, South Korea, Paris Saint Germain\n
+Kylian Mbappé, France, Paris Saint Germain\n
+Mohamed Salah, Egypt, Liberpool\n
+Luca Modric, Croatia, Real Madrid\n
 
