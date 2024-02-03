@@ -1,29 +1,29 @@
 # My First Document!
 
-## I'm currently taking:**
-* **_Data Science Discovery_**
-* **_Race, Gender, and Info Tech_**
-* **_Computing in the Humanities_**
+## I'm currently taking:
+1. **_Data Science Discovery_**
+2. **_Race, Gender, and Info Tech_**
+3. **_Computing in the Humanities_**
   * Section B
-* **_Project Management_**
+4. **_Project Management_**
   * Section A 
-* **_Intro to Data Storytelling_**
+5. **_Intro to Data Storytelling_**
   * Section A
  
 
 
 <p align="center">
-  <img src= https://imgur.com/a/9KWG8cJ width="50" height="50"><BR>
+  <img src= https://imgur.com/a/9KWG8cJ><BR>
   UIUC Logo
-</p>p
+</p>
 
 
 
-    Name         |     Nationality      | Club
+Name, Nationality, Club
 ------------------------------------------------------
-Christian Ronaldo | Portugal           | Al-Nassar FC
-Kangin Lee        |  South Korea       | Paris Saint-Germain
-Kylian Mbappé     | France             | Paris Saint-Germain
-Mohamed Salah     | Egypt              | Liberpool
-Luca Modric       | Croatia            | Real Madrid
+Christian Ronaldo, Portugal, Al-Nassar FC
+Kangin Lee, South Korea, Paris Saint-Germain
+Kylian Mbappé, France, Paris Saint-Germain
+Mohamed Salah, Egypt, Liberpool
+Luca Modric, Croatia, Real Madrid
 
