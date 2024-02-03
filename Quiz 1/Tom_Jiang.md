@@ -1,2 +1,5 @@
+![banner](https://as2.ftcdn.net/v2/jpg/02/95/73/61/1000_F_295736164_6cRHEPciNXbdl4YBzSCYwkKiOViDDWiA.jpg)
+# :palm_tree::palm_tree::palm_tree: Welcome :palm_tree::palm_tree::palm_tree:
+
 [![Noosphere | Adeptus Mechanicus Combat Music](https://img.youtube.com/vi/asr6_eNCuoU/0.jpg)](https://www.youtube.com/watch?v=asr6_eNCuoU)
 <center>*The genre would fall into something like a industrial gothic music, it's not for everyone, but I perosnally like it.*</center>
