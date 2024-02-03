@@ -6,7 +6,7 @@
 > **Name's Tom, and here's a little synthwave themed page for you.**
 ---
 ```
-**Here, have some nice music**
+Here, have some nice music
 ```
 
 [![Synthwave music](https://img.youtube.com/vi/zZdVwTjUtjg/0.jpg)](https://www.youtube.com/watch?v=zZdVwTjUtjg)
