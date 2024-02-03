@@ -1,1 +1,1 @@
-[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
+[![Noosphere | Adeptus Mechanicus Combat Music](https://img.youtube.com/vi/asr6_eNCuoU/0.jpg)](https://www.youtube.com/watch?v=asr6_eNCuoU)
