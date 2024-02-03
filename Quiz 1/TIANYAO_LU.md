@@ -1,4 +1,4 @@
-<h1> Hi! My name is Tianyao! <h2>
+<h1> Hi! My name is Tianyao!  
 <h2> I'm currently a sophomore studying Information Sciences at UIUC. <h2>
 
 <h> Top three foods I like. <h>
