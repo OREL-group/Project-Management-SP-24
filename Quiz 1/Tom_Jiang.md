@@ -10,5 +10,5 @@ Here, have some nice music
 ```
 
 [![Synthwave music](https://img.youtube.com/vi/zZdVwTjUtjg/0.jpg)](https://www.youtube.com/watch?v=zZdVwTjUtjg)
-Out Of Touch Thursday! (Synthwave Remix)
-<p style="text-align:center">Center this text</p>
+&nbsp;Out Of Touch Thursday! (Synthwave Remix)
+
