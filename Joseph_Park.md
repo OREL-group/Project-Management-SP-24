@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src= "[https://imgur.com/a/9KWG8cJ](https://imgur.com/a/VduiR3A)" alt="UIUC Logo"><BR>
+  <img src= "https://imgur.com/a/VduiR3A" alt="UIUC Logo"><BR>
   UIUC Logo
 </p>
 
