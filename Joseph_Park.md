@@ -1,13 +1,13 @@
 # My First Document!
 
 ## I'm currently taking:
-1. **_Data Science Discovery_**
-2. **_Race, Gender, and Info Tech_**
-3. **_Computing in the Humanities_**
+1. _Data Science Discovery_
+2. _Race, Gender, and Info Tech_
+3. _Computing in the Humanities_
    - Section B
-5. **_Project Management_**
+5. _Project Management_
    - Section A 
-5. **_Intro to Data Storytelling_**
+5. _Intro to Data Storytelling_
    - Section A
  
 
