@@ -1,6 +1,6 @@
 # My First Document!
 
-## I'm currently taking:
+### Courses that I'm currently taking:
 1. _Data Science Discovery_
 2. _Race, Gender, and Info Tech_
 3. _Computing in the Humanities_
