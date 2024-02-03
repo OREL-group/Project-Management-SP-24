@@ -4,11 +4,11 @@
 1. **_Data Science Discovery_**
 2. **_Race, Gender, and Info Tech_**
 3. **_Computing in the Humanities_**
-  * Section B
-4. **_Project Management_**
-  * Section A 
+   - Section B
+5. **_Project Management_**
+   - Section A 
 5. **_Intro to Data Storytelling_**
-  * Section A
+   - Section A
  
 
 
@@ -19,11 +19,11 @@
 
 
 
-Name, Nationality, Club\n
-------------------------------------------------------
-Christian Ronaldo, Portugal, Al Nassar FC\n
-Kangin Lee, South Korea, Paris Saint Germain\n
-Kylian Mbappé, France, Paris Saint Germain\n
-Mohamed Salah, Egypt, Liberpool\n
-Luca Modric, Croatia, Real Madrid\n
+|Name             | Nationality | Club                |
+|-----------------|-------------|---------------------|
+|Christian Ronaldo| Portugal    |Al Nassar FC         |
+|Kangin Lee       | South Korea | Paris Saint Germain |
+|Kylian Mbappé    | France      | Paris Saint Germain |
+|Mohamed Salah    | Egypt       | Liberpool           |
+|Luca Modric      | Croatia     | Real Madrid         |
 
