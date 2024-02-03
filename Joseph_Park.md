@@ -10,14 +10,14 @@
 5. _Intro to Data Storytelling_
    - Section A
  
-
+<br>
 
 <p align="center">
    <img src= "https://i.imgur.com/i68mq3o.png" alt="UIUC Logo"><BR>
   UIUC Logo
 </p>
 
-
+<br>
 
 
 |Name             | Nationality | Club                |
