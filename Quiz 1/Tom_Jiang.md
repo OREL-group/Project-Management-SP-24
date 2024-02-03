@@ -12,3 +12,12 @@ Here, click the image below to hear some nice music
 [![Synthwave music](https://img.youtube.com/vi/zZdVwTjUtjg/0.jpg)](https://www.youtube.com/watch?v=zZdVwTjUtjg)
 <center> Song name: Out Of Touch Thursday! (Synthwave Remix) </center>
 
+
+
+
+
+
+
+
+[Artist](
+https://warakami-vaporwave.tumblr.com/post/715853305732120576/supervisual-tokyo) who made the cool motion picture
