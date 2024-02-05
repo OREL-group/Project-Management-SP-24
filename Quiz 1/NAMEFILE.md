@@ -11,3 +11,5 @@ Tianyao Lu
 Joseph(Hyunwoo) Park
 
 Nicholas Yeung
+
+Xinyi Wang
