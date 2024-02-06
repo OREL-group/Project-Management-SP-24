@@ -11,6 +11,8 @@
 | Badminton  | Pop  | Brownies |
 | Basketball | R&B  | Muffins  |
 
+<!-- -->
+
 > My favorite restaurant on campus is Shawarma Joint :)
 
 ***
