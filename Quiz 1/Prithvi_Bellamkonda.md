@@ -3,6 +3,7 @@
 ## Hello GitHub
 
 **Department**         | **School**                        | **Location**      |
+-----------------------| --------------------------------  | ---------------   |
 Computer Science       | Grainger College of Engineering   | 201 N Goodwin Ave |
 Information Sciences   | School of Information Sciences    | 501 E Daniel St   |
 Business               | Gies School of Business           | 1206 S 6th St     |
