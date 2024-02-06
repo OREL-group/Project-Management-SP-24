@@ -15,3 +15,5 @@ Nicholas Yeung
 Xinyi Wang
 
 Richard Liu
+
+Daniel Yao
