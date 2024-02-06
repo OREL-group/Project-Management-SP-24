@@ -6,7 +6,7 @@ Computer Science is the study of computers and their processes. There is the the
 
 
 ![Computer Science](https://miro.medium.com/v2/resize:fit:447/1*ccL2R1a-iRprIW2OJwTYDQ.jpeg)
-> **Computer Science**
+> **Computer Monitor**
 
 | Theoretical                | Applied                | Systems               |
 |----------------------------|------------------------|-----------------------|
