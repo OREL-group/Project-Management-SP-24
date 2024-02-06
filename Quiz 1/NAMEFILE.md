@@ -17,3 +17,5 @@ Xinyi Wang
 Richard Liu
 
 Daniel Yao
+
+Dimple Patel  
