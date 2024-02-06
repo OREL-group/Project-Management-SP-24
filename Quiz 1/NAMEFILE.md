@@ -13,3 +13,5 @@ Joseph(Hyunwoo) Park
 Nicholas Yeung
 
 Xinyi Wang
+
+Richard Liu
