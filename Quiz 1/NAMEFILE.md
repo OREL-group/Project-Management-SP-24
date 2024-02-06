@@ -14,4 +14,6 @@ Nicholas Yeung
 
 Xinyi Wang
 
+Dimple Patel
+
 Richard Liu
