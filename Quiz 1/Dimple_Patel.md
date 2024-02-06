@@ -14,6 +14,7 @@
 ***
 
 ![image](https://us.123rf.com/450wm/nuevoimg/nuevoimg2306/nuevoimg230603697/205797094-cute-penguin-vector-illustration-cute-cartoon-penguin.jpg?ver=6)
-* <-- This penguin looks so cute!*
+
+* ^ This penguin looks so cute!*
 
 > My favorite restaurant on campus is Shawarma Joint :)
