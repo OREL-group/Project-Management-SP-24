@@ -21,3 +21,5 @@ Daniel Yao
 Dimple Patel  
 
 Ziwei Wang
+
+Nia Temple
