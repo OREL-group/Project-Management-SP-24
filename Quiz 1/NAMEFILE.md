@@ -23,3 +23,5 @@ Dimple Patel
 Ziwei Wang
 
 Stephen Xiao
+
+Adithya Narayan
