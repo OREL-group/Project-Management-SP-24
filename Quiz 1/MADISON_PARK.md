@@ -13,7 +13,7 @@ But in my personal work and interests, I love exploring the concept of identity,
 
 ## Favorite Cafes
 
-Here's a quick overview of the skills I've developed on my journey:
+my top cafes + bakeries on campus:
 
 | Cafe          |   Ranking   | Comment |
 |---------------|-------------|---------|
