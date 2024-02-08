@@ -1,11 +1,14 @@
 <h1> Halo Everyone! This is Stephen Xiao and I am sophmore now majored in IS+DS. </h1>
-<b> I am gping to share my favorite video games and colors </b>
+<b> I am going to share my favorite video games and colors </b>
+
 
 |**Favorite video games**| **Favouite colors**|
 |------------|-----------|
 |Read Dead Redemption| Black|
 | Cyberpunk2077| Yellow|
 | Hogwarts Legacy| Grey|
+
+
 
 <b> I post the image of the video games here:</b>
 <figure>
