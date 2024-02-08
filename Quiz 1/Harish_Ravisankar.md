@@ -7,5 +7,11 @@ I am Harish Ravisankar. I'm currently a senior majoring in IS + DS.
  - Music
  - Weightlifting
  - Video Games
+   
+| Music     | Video games|
+| ---------- | ------------- | 
+| Drake  | Fortnite  | 
+| Travis Scott | R6  |
 
 ![image](https://github.com/harishr03/Project-Management/assets/83615542/91765588-5049-4227-877b-731ef95671a3)
+
