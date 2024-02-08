@@ -22,6 +22,8 @@ Dimple Patel
 
 Ziwei Wang
 
+Prithvi Bellamkonda  
+
 Stephen Xiao
 
 Madison Park
@@ -30,4 +32,4 @@ Adithya Narayan
 
 Madison Park
 
-Renault Kang
+Renault Kang  
