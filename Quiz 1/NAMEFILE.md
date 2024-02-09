@@ -22,6 +22,10 @@ Dimple Patel
 
 Ziwei Wang
 
+Nia Temple  
+
+Prithvi Bellamkonda  
+
 Stephen Xiao
 
 Madison Park
@@ -29,3 +33,7 @@ Madison Park
 Adithya Narayan
 
 Stephanie Jin
+
+Madison Park
+
+Renault Kang   
