@@ -4,10 +4,10 @@ def generate_markdown_document(first_name, last_name):
 ## Introduction
 Nice to e-meet you :D I am Stephanie, a HCI/UX senior at University of Illinois-Urbana Champaign with a minor in art and design.
 
-### Text Styles
-- *Italic*
-- **Bold**
-- ***Italic and Bold***
+### Those makes up me!
+- *Product Design*
+- **Winter sports**
+- ***Art and photography***
 
 ### Lists
 1. Ordered List Item 1
@@ -16,22 +16,11 @@ Nice to e-meet you :D I am Stephanie, a HCI/UX senior at University of Illinois-
    - Unordered Sub-item B
 
 ### Image with Caption
-<img src="https://via.placeholder.com/150" alt="Placeholder Image">
-<figcaption>Figure 1: Placeholder Image</figcaption>
+<img src="[https://via.placeholder.com/150" alt="Placeholder Image"](https://drive.google.com/drive/u/0/folders/1qXrCm5bu7aQTPmHrPsX27L8v5kH45nkR)>
+<figcaption>Figure 1: It's me :P </figcaption>
 
 ### Table
 | Hobby | Fav food | Color |
 |----------|----------|----------|
 | Skating  | Sushi  | Purple  |
 | Badminton  | Dessert  | Blue  |
-
-## Conclusion
-This document demonstrates various stylistic elements in Markdown.
-"""
-
-    file_name = f"{Stephanie}_{Jin}.md"
-    with open(file_name, "w") as markdown_file:
-        markdown_file.write(markdown_content)
-
-# Replace "Stephanie" and "Jin" with your first name and last name respectively
-generate_markdown_document("Stephanie", "Jin")
