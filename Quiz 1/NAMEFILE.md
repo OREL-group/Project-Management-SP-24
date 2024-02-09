@@ -26,6 +26,8 @@ Nia Temple
 
 Prithvi Bellamkonda  
 
+Lekha Panati
+
 Stephen Xiao
 
 Madison Park
