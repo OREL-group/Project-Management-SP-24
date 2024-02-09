@@ -9,17 +9,13 @@ Nice to e-meet you :D I am Stephanie, a HCI/UX senior at University of Illinois-
 - **Winter sports**
 - ***Art and photography***
 
-### Lists
-1. Ordered List Item 1
-2. Ordered List Item 2
-   - Unordered Sub-item A
-   - Unordered Sub-item B
+### Facourite food to cook!
+1. Steak
+2. Any asian food
+   - Kimbap
+   - Springrolls
 
-### Image with Caption
-<img src="[https://via.placeholder.com/150" alt="Placeholder Image"](https://drive.google.com/drive/u/0/folders/1qXrCm5bu7aQTPmHrPsX27L8v5kH45nkR)>
-<figcaption>Figure 1: It's me :P </figcaption>
-
-### Table
+### More about me
 | Hobby | Fav food | Color |
 |----------|----------|----------|
 | Skating  | Sushi  | Purple  |
