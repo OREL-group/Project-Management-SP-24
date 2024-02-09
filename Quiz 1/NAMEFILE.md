@@ -28,9 +28,7 @@ Prithvi Bellamkonda
 
 Lekha Panati
 
-Stephen Xiao
-
-Madison Park
+Stephen Xiao  
 
 Adithya Narayan
 
