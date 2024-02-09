@@ -22,6 +22,8 @@ Dimple Patel
 
 Ziwei Wang
 
+Nia Temple  
+
 Prithvi Bellamkonda  
 
 Stephen Xiao
