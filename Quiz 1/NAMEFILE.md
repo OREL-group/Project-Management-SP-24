@@ -22,14 +22,25 @@ Dimple Patel
 
 Ziwei Wang
 
-Stephen Xiao
+Nia Temple  
 
-Madison Park
+Prithvi Bellamkonda  
+
+Lekha Panati
+
+Stephen Xiao  
 
 Adithya Narayan
+
+Stephanie Jin
 
 Madison Park
 
 Renault Kang
 
 Harish Ravisankar
+
+Say Say
+
+Michael Chiflikyan
+
