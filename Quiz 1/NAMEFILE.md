@@ -24,6 +24,8 @@ Ziwei Wang
 
 Prithvi Bellamkonda  
 
+Lekha Panati
+
 Stephen Xiao
 
 Madison Park
