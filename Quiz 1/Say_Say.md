@@ -12,7 +12,7 @@
   <tr>
     <td>Seven Saints</td>
     <td>10/10</td>
-    <td>The yummiest tomato bisque soup ever, trust</td>
+    <td>The yummiest tomato bisque ever, trust</td>
   </tr>
   <tr>
     <td>Neil St. Blues</td>
