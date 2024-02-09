@@ -37,4 +37,4 @@
 </table>
 <h2>Goodbye For Now</h2>
 <p>My kitten Mittens says bye :)</p>
-![Mittens](https://github.com/saysay2/Project-Management/assets/158520498/71c62995-753a-4992-8c4c-8e200d744638)
+![image](https://github.com/saysay2/Project-Management/assets/158520498/71c62995-753a-4992-8c4c-8e200d744638)
