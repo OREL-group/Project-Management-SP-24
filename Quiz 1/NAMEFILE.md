@@ -27,3 +27,5 @@ Stephen Xiao
 Madison Park
 
 Adithya Narayan
+
+Stephanie Jin
