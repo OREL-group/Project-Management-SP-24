@@ -1,10 +1,10 @@
 # Stylistic Elements Demo
 
-## Text Styles
+# Text Styles
 **Grade Results**  
 *Contact me with any questions.*  
 
-# Student List
+# Table
 
 | Name        | ID Number | Grade |
 |-------------|-----------|-------|
@@ -12,6 +12,6 @@
 | Jane Smith  | 654321    | B     |
 | Alice Brown | 987654    | A-    |
 
-## Image with Caption
+# Image Use
 ![Illinois Logo](example.png)  
 <figcaption>Have a good break.</figcaption>
