@@ -1,5 +1,5 @@
 ## TITLE
-Name, Semester, link to personal website.
+Qiran Hu, Semester, link to personal website.
 
 
 ### Introduction/Headings    
