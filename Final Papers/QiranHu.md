@@ -12,7 +12,7 @@ Qiran Hu, Semester, link to personal website.
 #### Subheading
 [Comment_3]: <> (begin your text here)
 
-| ![]([https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg](https://github.com/Edward-H26/Project-Management_Qiran/blob/main/Final%20Papers/KMeans.png)) | 
+| ![](https://github.com/Edward-H26/Project-Management_Qiran/blob/main/Final%20Papers/KMeans.png) | 
 | :--: |
 | <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
