@@ -1,5 +1,5 @@
-## TITLE
-Name, Semester, link to personal website.
+## Price Comparison Website
+Daniel Yao, SP2024
 
 
 ### Introduction/Headings    
