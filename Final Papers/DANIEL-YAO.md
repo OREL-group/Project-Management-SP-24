@@ -1,30 +1,22 @@
 ## DealFinder: Price Comparison Website
 Daniel Yao, SP2024
 
-### Introduction/Headings    
+### Introduction
 In the chaotic landscape of e-commerce, customers are often overwhelmed by the countless options and price differences when shopping for products online. Looking for one product is no longer a simple process of visiting and purchasing from a single store. Instead, it has become a convoluted process requiring customers to navigate through multiple websites, compare prices and assess the different product features. This can often lead to a time-consuming and frustrating experience, resulting in a negative shopping experience for customers. In response to this problem, DealFinder aims to create a user-friendly platform that aggregates product listings and prices from various online retailers. It will act as a search engine for products and return the online retailers that sell the desired product along with its prices. Other important statistics will also be provided like price history and potential discounts to help make informed purchasing decisions. By streamlining the search process and centralizing the information, the project aims to alleviate the stress and confusion of online shopping and help inform customers with the best deals available.
 
-#### Subheading
-[Comment_3]: <> (begin your text here)
+### Motivation
 
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
+### OpenSource
 
-[Comment_4]: <> (Insert Figure with caption here)
+### Project Timeline
 
-#### Subheading     
+### Phase 1
 
-[Comment_5]: <> (begin your text here)
+### Phase 2
 
-__Paragraph heading__         
-
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
-
+### Phase 3
 
 ### Conclusion      
-
-[Comment_7]: <> (begin your text here)
 
 
 ### References     
