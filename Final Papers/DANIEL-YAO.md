@@ -18,8 +18,6 @@ The current e-commerce market is dominated by giants like Alibaba and Amazon. Th
 
 The main target audience is online shoppers, more specifically busy professionals and budget-conscious consumers. The website caters to individuals who prioritize efficiency and affordability when shopping online. For busy professionals, their main focus would be time-efficiency and convenience. Thus, the website will have a user-friendly interface that is both easy to learn and simple to use. It should only be a maximum of 5 clicks for the customer to reach from the index page to the chosen store page. We will also appeal to the budget-conscious consumers by providing detailed information on prices. This can include price drop notifications, sorted prices, and current discounts information. These useful data will help the target audience to be able to maximize their savings without compromising on the quality. As most online shopping is done on a laptop, a website format would best fit DealFinder. 
 
-#### Project Vision
-
 ### OpenSource
 
 ### Project Timeline
