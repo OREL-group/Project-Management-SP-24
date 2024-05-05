@@ -8,7 +8,13 @@ The primary purpose of the open-source price comparison website is to help simpl
 
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/aa182fc8-3b5e-4179-bdf3-e0644afd9291)
 
-The first frustration is the need to visit multiple websites to find the product and get the best deal possible.  By eliminating the need for customers to visit multiple websites and compare the prices manually, DealFinder can simplify the journey, helping to save customers both time and effort. 
+The first frustration is the need to visit multiple websites to find the product and get the best deal possible. By eliminating the need for customers to visit multiple websites and compare the prices manually, DealFinder can simplify the journey, helping to save customers both time and effort. 
+
+Oftentimes, customers are bombarded with too many choices, making it challenging and stressful to determine the best options. Data regarding the product is also scattered in different parts of the internet, making the customers waste time searching for all the information. DealFinder helps negate this by providing customers with comprehensive information, including price history and potential discounts, to help them make informed decisions. By presenting all relevant information in one centralized location, it helps empower the customers to have a variety of options to choose from without the hassle of searching. 
+
+The current e-commerce 
+
+![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/b28d6917-4705-4774-8b3d-984a3667f236)
 
 
 #### Project Vision
