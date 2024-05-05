@@ -33,9 +33,6 @@ __Paragraph heading__
 
 ### References     
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-Reference
 ● Narins, E. (2023, September 19). Breast cancer awareness feature. Centers for Disease Control and Prevention.
 https://www.cdc.gov/cancer/dcpc/resources/features/breastcancerawareness/index.htm
 
