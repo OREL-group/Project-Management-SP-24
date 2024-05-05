@@ -7,6 +7,10 @@ In the chaotic landscape of e-commerce, customers are often overwhelmed by the c
 The primary purpose of the open-source price comparison website is to help simplify and streamline the shopping experience to be as convenient for the customer as possible.As the number of online shoppers increases, the need for efficient and user-friendly shopping solutions such as DealFinder becomes increasingly crucial for both companies and customers. By addressing the complexities and frustrations inherent in current e-commerce, it can make the shopping process much more convenient. 
 
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/aa182fc8-3b5e-4179-bdf3-e0644afd9291)
+
+The first frustration is the need to visit multiple websites to find the product and get the best deal possible.  By eliminating the need for customers to visit multiple websites and compare the prices manually, DealFinder can simplify the journey, helping to save customers both time and effort. 
+
+
 #### Project Vision
 
 ### OpenSource
