@@ -1,6 +1,5 @@
-## TITLE
-Qiran Hu, Semester, link to personal website.
-
+## Breast Cancer Detection App Based On Machine Learning Models
+Qiran Hu, SP24
 
 ### Introduction/Headings    
 
@@ -36,4 +35,16 @@ __Paragraph heading__
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+Reference
+● Narins, E. (2023, September 19). Breast cancer awareness feature. Centers for Disease Control and Prevention.
+https://www.cdc.gov/cancer/dcpc/resources/features/breastcancerawareness/index.htm
+
+● Rosenman, M. (2021, April 28). Breast cancer: Breast cancer information & overview. Breast Cancer Information & Overview | American Cancer Society. https://www.cancer.org/cancer/types/breast-cancer.html
+
+● Jackson, J. (2023, July 25). What is breast cancer?. Centers for Disease Control and Prevention. https://www.cdc.gov/cancer/breast/basic_info/what-is-breast-cancer.htm 
+
+● Mia, L. (2018, February 17). Breast cancer-patient version. National Cancer Institute. https://www.cancer.gov/types/breast 
+
+● Lee, C. (2020, April 18). Breast cancer. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/3986-breast-cancer 
+
+● Narkhede, S. (2021, June 15). Understanding AUC - roc curve. Medium. https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5 
