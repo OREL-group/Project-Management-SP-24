@@ -28,6 +28,4 @@ The first frustration is the need to visit multiple websites to find the product
 
 ### References     
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+Gaubys, Justas. “How Many People Shop Online in 2024? [Updated Jan 2024].” Oberlo, Oberlo, www.oberlo.com/statistics/how-many-people-shop-online. Accessed 5 May 2024. 
