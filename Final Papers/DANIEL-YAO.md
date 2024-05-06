@@ -47,7 +47,11 @@ In order to ensure a good end product and minimize the accumulation of technical
   - #### Sign in Page
        Once registered, users can access the platform through the Sign in Page, where they will enter their credentials to log in securely.
   - #### Account Page
-       Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location. 
+       Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location.
+
+* #### Save Features
+
+* #### Additional improvements to Searched Page
 #### Phase 3: Premium Features
 
 ### Conclusion      
