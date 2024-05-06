@@ -50,6 +50,8 @@ In order to ensure a good end product and minimize the accumulation of technical
        Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location.
 
 * #### Save Features
+![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/88d3dad7-c13e-457b-8622-07b32c3d29c8)
+
 
 * #### Additional improvements to Searched Page
 #### Phase 3: Premium Features
