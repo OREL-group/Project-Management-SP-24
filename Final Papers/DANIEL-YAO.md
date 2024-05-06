@@ -30,7 +30,7 @@ It is also important to include a platform that allows for discussions and colla
 ### Project Plan
 In order to ensure a good end product and minimize the accumulation of technical debt, the project will be split into three phases. The first phase will be the bare bones of the website, only implementing essential features. This will only include the price comparison feature for the website. The second phase will involve integrating new features that will make the platform more convenient and efficient. This will involve quality-of-life features that aim to make the overall experience smoother and more enjoyable. Finally, the third phase will be premium features. This involves additional features; however, they are locked behind a paywall. These features will need to be good and enticing enough to persuade users to purchase them.
 
-#### Phase 1
+#### Phase 1: Barebones
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/faec774e-c282-4fc1-8f8b-da319f0d5e98)
 #### User Features:
 * #### Landing Page
@@ -39,9 +39,9 @@ In order to ensure a good end product and minimize the accumulation of technical
 * #### Searched Page
   The searched page is the image shown above. After the user searches or clicks on an item, it will bring them to this page. This is the price comparison page where it will give you a list of       retailers and e-commerce stores that sell the product and their prices. The list will be sorted from lowest to highest. The lowest priced item will be displayed right next to the item image as    a button. This makes it easy for the users to identify the cheapest shop at first glance. The button will then take the user to the retailer’s official page of the item. Moreover, the searched    page will also include detailed product descriptions, including key features, specifications, and customer reviews to provide users with all the information they need to make an informed          purchasing decision. 
 
-#### Phase 2
+#### Phase 2: Additional Features
 
-#### Phase 3
+#### Phase 3: Premium Features
 
 ### Conclusion      
 
