@@ -43,7 +43,7 @@ In order to ensure a good end product and minimize the accumulation of technical
 * #### Account Page
     The additional feature of a personal account will be added. This will include pages that are necessary for accounts: Sign up Page, Sign in Page, and Personal Account Page. This will allow         users to have a more personalized experience, helping to foster loyalty and engagement with the platform. It will also be beneficial for the user as more relevant information can be given to      them like exclusive offers, wishlists, and notifications.
 
-** Sign up Page
+    1. #### Sign up Page
 
 #### Phase 3: Premium Features
 
