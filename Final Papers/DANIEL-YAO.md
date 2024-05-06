@@ -37,7 +37,8 @@ In order to ensure a good end product and minimize the accumulation of technical
     The landing page will be the initial contact between the user and the platform, offering a glimpse into the features, benefits, and offerings available. It will need captivating visuals to        create a positive first impression and encourage users to further use the platform. The purpose of DealFinder should be clearly written and made compelling for the users. It should also           showcase featured, popular, and high-discount products as the main spotlight of the landing page. The design should be simple and minimalistic to contrast with the featured products, bringing     attention to those products. These products will be the ones with the best discounts and deals to hook the users with the saving potential that DealFinder can bring. At the top, there should      be a search bar that serves as a convenient tool for users to quickly locate exactly what they're looking for. 
 
 * #### Searched Page
-  
+  The searched page is the image shown above. After the user searches or clicks on an item, it will bring them to this page. This is the price comparison page where it will give you a list of       retailers and e-commerce stores that sell the product and their prices. The list will be sorted from lowest to highest. The lowest priced item will be displayed right next to the item image as    a button. This makes it easy for the users to identify the cheapest shop at first glance. The button will then take the user to the retailer’s official page of the item. Moreover, the searched    page will also include detailed product descriptions, including key features, specifications, and customer reviews to provide users with all the information they need to make an informed          purchasing decision. 
+
 #### Phase 2
 
 #### Phase 3
