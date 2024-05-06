@@ -27,7 +27,8 @@ The GitHub platform will be used as the central hub for our open-source developm
 
 It is also important to include a platform that allows for discussions and collaborations across the internet. Discord can serve as a communication medium where users can interact with the development team and fellow community members. Discord’s server feature allows for a dedicated space to discuss specific topics, ask questions, and exchange insights. Discord offers a wide range of communication tools, including text chat, voice chat, and video conferencing, enabling users to engage in real-time discussions and collaborate from anywhere in the world.
 
-### Project Timeline
+### Project Plan
+In order to ensure a good end product and minimize the accumulation of technical debt, the project will be split into three phases. The first phase will be the bare bones of the website, only implementing essential features. This will only include the price comparison feature for the website. The second phase will involve integrating new features that will make the platform more convenient and efficient. This will involve quality-of-life features that aim to make the overall experience smoother and more enjoyable. Finally, the third phase will be premium features. This involves additional features; however, they are locked behind a paywall. These features will need to be good and enticing enough to persuade users to purchase them.
 
 #### Phase 1
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/faec774e-c282-4fc1-8f8b-da319f0d5e98)
