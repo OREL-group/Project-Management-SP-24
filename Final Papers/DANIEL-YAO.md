@@ -34,9 +34,10 @@ In order to ensure a good end product and minimize the accumulation of technical
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/faec774e-c282-4fc1-8f8b-da319f0d5e98)
 #### User Features:
 * #### Landing Page
-    The landing page will be the initial contact between the user and the platform, offering a glimpse into the features, benefits, and offerings available. It will need captivating visuals to        create a positive first impression and encourage users to further use the platform. The purpose of DealFinder should be clearly written and made compelling for the users. It should also           showcase featured, popular, and high discount products as the main spotlight of the landing page. The design should be simple and minimalistic to contrast with the featured products,              bringing attention to those products. These products will be the ones with the best discounts and deals to hook the users with the saving potentials that DealFinder can bring. 
+    The landing page will be the initial contact between the user and the platform, offering a glimpse into the features, benefits, and offerings available. It will need captivating visuals to        create a positive first impression and encourage users to further use the platform. The purpose of DealFinder should be clearly written and made compelling for the users. It should also           showcase featured, popular, and high-discount products as the main spotlight of the landing page. The design should be simple and minimalistic to contrast with the featured products, bringing     attention to those products. These products will be the ones with the best discounts and deals to hook the users with the saving potential that DealFinder can bring. At the top, there should      be a search bar that serves as a convenient tool for users to quickly locate exactly what they're looking for. 
 
-
+* #### Searched Page
+  
 #### Phase 2
 
 #### Phase 3
