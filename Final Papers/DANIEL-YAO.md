@@ -42,7 +42,11 @@ In order to ensure a good end product and minimize the accumulation of technical
 #### Phase 2: Additional Features
 * #### Account Page
     The additional feature of a personal account will be added. This will include pages that are necessary for accounts: Sign up Page, Sign in Page, and Personal Account Page. This will allow         users to have a more personalized experience, helping to foster loyalty and engagement with the platform. It will also be beneficial for the user as more relevant information can be given to      them like exclusive offers, wishlists, and notifications.
-  * #### Sign up Page
+  - #### Sign up Page
+       Sign up Page will enable new users to easily register by providing basic information such as their email address, username, and password. Optionally, additional information such as date of        birth and location may be requested to further personalize the user's experience. This information can be used to tailor their experience on the platform, such as displaying stores and            deals available in their area, providing localized recommendations, or offering location-based promotions. It would also be helpful to know the shipping information and use that as a              metric for price comparison.   
+  - #### Sign in Page
+    
+  - #### Account Page
 
 #### Phase 3: Premium Features
 
