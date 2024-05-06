@@ -32,8 +32,9 @@ In order to ensure a good end product and minimize the accumulation of technical
 
 #### Phase 1
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/faec774e-c282-4fc1-8f8b-da319f0d5e98)
-##### User Features:
-* ##### Test
+#### User Features:
+* #### Landing Page
+The landing page is the 
 #### Phase 2
 
 #### Phase 3
