@@ -45,9 +45,9 @@ In order to ensure a good end product and minimize the accumulation of technical
   - #### Sign up Page
        Sign up Page will enable new users to easily register by providing basic information such as their email address, username, and password. Optionally, additional information such as date of        birth and location may be requested to further personalize the user's experience. This information can be used to tailor their experience on the platform, such as displaying stores and            deals available in their area, providing localized recommendations, or offering location-based promotions. It would also be helpful to know the shipping information and use that as a              metric for price comparison.   
   - #### Sign in Page
-        Once registered, users can access the platform through the Sign in Page, where they will enter their credentials to log in securely.
+       Once registered, users can access the platform through the Sign in Page, where they will enter their credentials to log in securely.
   - #### Account Page
-        Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location. 
+       Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location. 
 #### Phase 3: Premium Features
 
 ### Conclusion      
