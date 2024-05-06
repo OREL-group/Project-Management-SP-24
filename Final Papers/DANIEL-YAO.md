@@ -14,7 +14,7 @@ Oftentimes, customers are bombarded with too many choices, making it challenging
 
 The current e-commerce market is dominated by giants like Alibaba and Amazon. The combined Alibaba and Amazon e-commerce market share is almost equivalent to the rest of the internet. Their wide assortment of options and aggressive marketing strategies make it difficult for customers to find alternatives to shop on. DealFinder promotes transparency and encourages free competition by giving customers a list of options from various retailers. This will include indie shops and family-owned businesses, ensuring that customers have access to a diverse range of products and retailers beyond the dominant players in the market. It helps to not only broaden the scope of available options but also foster a more equitable and fair e-commerce environment. In doing so, it allows the customers the freedom to make purchasing decisions that align with their preferences and values instead of being stuck shopping at one website. 
 
-![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/b28d6917-4705-4774-8b3d-984a3667f236) This is just a test to see where this goes.
+![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/b28d6917-4705-4774-8b3d-984a3667f236) 
 
 The main target audience is online shoppers, more specifically busy professionals and budget-conscious consumers. The website caters to individuals who prioritize efficiency and affordability when shopping online. For busy professionals, their main focus would be time efficiency and convenience. Thus, the website will have a user-friendly interface that is both easy to learn and simple to use. It should only be a maximum of 5 clicks for the customer to reach from the index page to the chosen store page. We will also appeal to budget-conscious consumers by providing detailed information on prices. This can include price drop notifications, sorted prices, and current discount information. These useful data will help the target audience be able to maximize their savings without compromising on the quality. As most online shopping is done on a laptop, a website format best fits DealFinder. 
 
@@ -50,7 +50,7 @@ In order to ensure a good end product and minimize the accumulation of technical
        Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location.
 
 * #### Save Features
-![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/88d3dad7-c13e-457b-8622-07b32c3d29c8)
+![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/88d3dad7-c13e-457b-8622-07b32c3d29c8) This is just a test to see where this goes.
 
 
 * #### Additional improvements to Searched Page
