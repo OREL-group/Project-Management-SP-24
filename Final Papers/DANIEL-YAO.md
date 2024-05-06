@@ -34,7 +34,8 @@ In order to ensure a good end product and minimize the accumulation of technical
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/faec774e-c282-4fc1-8f8b-da319f0d5e98)
 #### User Features:
 * #### Landing Page
-    The landing page is the 
+    The landing page acts as the gateway to the platform, offering a glimpse into the features, benefits, and offerings available. The landing page will need captivating visuals to create a           positive first impression and encourage users to further use the platform. It should also showcase featured and popular products as well as products with the highest discount. This will           emphasize the price comparison feature of the website. 
+
 #### Phase 2
 
 #### Phase 3
