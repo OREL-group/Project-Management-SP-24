@@ -40,6 +40,10 @@ In order to ensure a good end product and minimize the accumulation of technical
     The searched page is the image shown above. After the user searches or clicks on an item, it will bring them to this page. This is the price comparison page which will give a list of              retailers and e-commerce stores that sell the product along with their prices. The list will be sorted from lowest to highest. The lowest-priced item will be displayed right next to the item      image as a button. This makes it easy for the users to identify the cheapest shop at first glance. The button will then take the user to the retailer’s official page of the item. Moreover,        the searched page will also include detailed product descriptions, including key features, specifications, and customer reviews to provide users with all the information they need to make an      informed purchasing decision. 
 
 #### Phase 2: Additional Features
+* #### Account Page
+    The additional feature of a personal account will be added. This will include pages that are necessary for accounts: Sign up Page, Sign in Page, and Personal Account Page. This will allow         users to have a more personalized experience, helping to foster loyalty and engagement with the platform. It will also be beneficial for the user as more relevant information can be given to      them like exclusive offers, wishlists, and notifications.
+
+** #### Sign up Page
 
 #### Phase 3: Premium Features
 
