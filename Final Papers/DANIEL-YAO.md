@@ -30,16 +30,17 @@ It is also important to include a platform that allows for discussions and colla
 ### Project Plan
 In order to ensure a good end product and minimize the accumulation of technical debt, the project will be split into three phases. The first phase will be the bare bones of the website, only implementing essential features. This will only include the price comparison feature for the website. The second phase will involve integrating new features that will make the platform more convenient and efficient. This will involve quality-of-life features that aim to make the overall experience smoother and more enjoyable. Finally, the third phase will be premium features. This involves additional features; however, they are locked behind a paywall. These features will need to be good and enticing enough to persuade users to purchase them.
 
-#### Phase 1: Barebones
+#### Phase 1
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/faec774e-c282-4fc1-8f8b-da319f0d5e98)
-#### User Features:
+#### Barebones User Features:
 * #### Landing Page
     The landing page will be the initial contact between the user and the platform, offering a glimpse into the features, benefits, and offerings available. It will need captivating visuals to        create a positive first impression and encourage users to further use the platform. The purpose of DealFinder should be clearly written and made compelling for the users. It should also           showcase featured, popular, and high-discount products as the main spotlight of the landing page. The design should be simple and minimalistic to contrast with the featured products, bringing     attention to those products. These products will be the ones with the best discounts and deals to hook the users with the saving potential that DealFinder can bring. At the top, there should      be a search bar that serves as a convenient tool for users to quickly locate exactly what they're looking for. 
 
 * #### Item Page
     The item page is the image shown above. After the user searches or clicks on an item, it will bring them to this page. This is the price comparison page which will give a list of              retailers and e-commerce stores that sell the product along with their prices. The list will be sorted from lowest to highest. The lowest-priced item will be displayed right next to the item      image as a button. This makes it easy for the users to identify the cheapest shop at first glance. The button will then take the user to the retailer’s official page of the item. Moreover,        the searched page will also include detailed product descriptions, including key features, specifications, and customer reviews to provide users with all the information they need to make an      informed purchasing decision. 
 
-#### Phase 2: Additional Features
+#### Phase 2
+#### Additional User Features:
 * #### Account Page
     The additional feature of a personal account will be added. This will include pages that are necessary for accounts: Sign up Page, Sign in Page, and Personal Account Page. This will allow         users to have a more personalized experience, helping to foster loyalty and engagement with the platform. It will also be beneficial for the user as more relevant information can be given to      them like exclusive offers, wishlists, and notifications.
   - #### Sign up Page
@@ -58,7 +59,8 @@ In order to ensure a good end product and minimize the accumulation of technical
 
     Besides the social and interactive elements, the analytical and statistical data will also be improved to help users make more data-driven decisions, especially on prices. Information on          prices such as price history and average price of the product will be added. This additional pricing information will allow users to better assess the value of a product over time and make        more informed decisions about when to make a purchase. Additionally, more comprehensive pricing data from different retailers will be provided, enabling users to quickly identify the best         available deals. 
  
-#### Phase 3: Premium Features
+#### Phase 3
+#### Premium User Features:
 
 ### Conclusion      
 
