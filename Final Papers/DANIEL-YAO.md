@@ -60,12 +60,39 @@ In order to ensure a good end product and minimize the accumulation of technical
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/b9e57907-d2f5-4549-9779-f587450310f6)
 
 #### Phase 3: Premium User Features
+The website will follow a freemium model, offering users both free access to basic features and the option to upgrade to premium features for a heightened level of convenience, efficiency, and savings. The basic features are completed in Phase 1 and Phase 2. Phase 3 will focus on the premium features.
+
+* #### Discount Prediction
+    This premium feature will give users a notification when there is a predicted discount happening soon. By using machine learning and historical data analysis, this feature forecasts potential     discounts on products, allowing premium users to plan their purchases strategically and secure the best deals. For example, it will give the user a notification for a starting date of             Christmas Sales for a particular product or store. 
+
+* #### Discount Codes
+    Another premium feature is access to discount codes and coupons to help users save more money. In order to obtain the coupons, web scrapers will continuously monitor and extract the latest        deals and discounts from a wide range of online sources, including retailer websites, promotional emails, and coupon aggregators. Besides web scrapers, partnered deals with stores will also       provide coupons and specific deals for premium users. The collected coupons will then be organized and presented in a user-friendly interface, allowing them to easily browse and redeem the        offers that best suit their needs. The discount codes will be regularly updated and checked to ensure relevance and reliability. 
+
+* #### Additional improvements to Item Page:
+    Additional features will be to the Item Page for the premium users to provide even more information and ease of use when making purchasing decisions. One improvement is implementing a compare     feature. This will allow the users to select multiple items and view them side by side for easier comparison of features, specifications, and prices. This helps users view multiple items at       once and their data without the need to open up multiple tabs of information, making it easier to make an informed purchase. 
+
+    Another feature is access to advanced filtering options to allow premium users to refine search results based on specific criteria such as brand, price range, or customer ratings. This allows     users to narrow down search results to only products and stores that meet their exact criteria. Premium users can also save their customized filter settings for future use, streamlining the       search process and ensuring that they consistently find the most relevant products.  
+
+    Although there is already sorting in the basic features, it will only sort prices from lowest to highest. The advanced sorting feature allows users to organize and prioritize search results       according to their preferences. For example, this may include sorting by customer ratings, allowing users to prioritize products with higher satisfaction ratings from previous buyers. The         different metrics used to decide store recommendations can now be used as sorting criteria. These factors such as shipping speed or seller reputation can be sorted according to user               preferences, ensuring a seamless and reliable purchasing experience. 
+
+### Methods
+#### Frontend:
+Angular will be used for the front-end development of the website. Angular is a robust Javascript framework maintained by Google, providing a toolkit for building dynamic web applications. It is also extremely popular and widely used, which is very helpful for an open-source project. With Angular, developers can create reusable components, manage application states efficiently, and implement complex features such as routing, form validation, and HTTP requests. 
+
+#### Backend:
+For backend development, Django will be used as it is another popular backend development tool. Django is a high-level Python web framework that enables the rapid development of secure and scalable web applications. With Django, it can efficiently manage data in SQLite or MySQL which will be important in storing pricing and product information. 
+
+#### Design:
+Finally, the design will be done in Figma. Figma is a powerful web-based design tool that allows for collaborative designing, prototyping, and sharing of designs in real time. The collaborative feature of Figma makes it compelling for the open-source nature of the product. With Figma, designers can create high-fidelity mockups, wireframes, and interactive prototypes that accurately represent the look and feel of the final product. This allows for a better understanding of the product even when only in the design stage. Many of the images of UI designs are made in Figma. 
 
 ### Conclusion      
-
+In conclusion, this price comparison website provides an all-in-one platform for comparing prices and discovering deals, leading to a more convenient and informed shopping experience. The main focus is on convenience and simplicity, which is shown through the minimum amount of pages created in the 3 phases. Besides convenience, it also empowers users to make more informed decisions by giving them all the information from price to description in one place. Overall, this price comparison website aims to simplify the shopping experience, save users time and money, and ultimately, enhance their overall satisfaction and confidence in their purchases.
 
 ### References     
 
+* Angular, angular.io/guide/what-is-angular. Accessed 6 May 2024. 
+* “Airpods 2nd Generation.” Honey, www.joinhoney.com/shop/apple/p/17_327ac66f92333a139fe380d199128127_eb1878af1f768832c746c080200ecba8. Accessed 6 May 2024.
+* “Django.” Django Project, www.djangoproject.com/. Accessed 6 May 2024. 
 * Gaubys, Justas. “How Many People Shop Online in 2024? [Updated Jan 2024].” Oberlo, Oberlo, www.oberlo.com/statistics/how-many-people-shop-online. Accessed 5 May 2024. 
 * Team, AMZScout. “34 Online Shopping Statistics and Facts for 2024.” AMZScout Blog, AMZScout, 23 Feb. 2024, amzscout.net/blog/online-shopping-statistics/#:~:text=The%20most%20preferred%20day%20and,hours%2Fweek%20from%20their%20offices.
-* “Airpods 2nd Generation.” Honey, www.joinhoney.com/shop/apple/p/17_327ac66f92333a139fe380d199128127_eb1878af1f768832c746c080200ecba8. Accessed 6 May 2024. 
+
