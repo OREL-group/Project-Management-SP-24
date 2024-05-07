@@ -36,8 +36,8 @@ In order to ensure a good end product and minimize the accumulation of technical
 * #### Landing Page
     The landing page will be the initial contact between the user and the platform, offering a glimpse into the features, benefits, and offerings available. It will need captivating visuals to        create a positive first impression and encourage users to further use the platform. The purpose of DealFinder should be clearly written and made compelling for the users. It should also           showcase featured, popular, and high-discount products as the main spotlight of the landing page. The design should be simple and minimalistic to contrast with the featured products, bringing     attention to those products. These products will be the ones with the best discounts and deals to hook the users with the saving potential that DealFinder can bring. At the top, there should      be a search bar that serves as a convenient tool for users to quickly locate exactly what they're looking for. 
 
-* #### Searched Page
-    The searched page is the image shown above. After the user searches or clicks on an item, it will bring them to this page. This is the price comparison page which will give a list of              retailers and e-commerce stores that sell the product along with their prices. The list will be sorted from lowest to highest. The lowest-priced item will be displayed right next to the item      image as a button. This makes it easy for the users to identify the cheapest shop at first glance. The button will then take the user to the retailer’s official page of the item. Moreover,        the searched page will also include detailed product descriptions, including key features, specifications, and customer reviews to provide users with all the information they need to make an      informed purchasing decision. 
+* #### Item Page
+    The item page is the image shown above. After the user searches or clicks on an item, it will bring them to this page. This is the price comparison page which will give a list of              retailers and e-commerce stores that sell the product along with their prices. The list will be sorted from lowest to highest. The lowest-priced item will be displayed right next to the item      image as a button. This makes it easy for the users to identify the cheapest shop at first glance. The button will then take the user to the retailer’s official page of the item. Moreover,        the searched page will also include detailed product descriptions, including key features, specifications, and customer reviews to provide users with all the information they need to make an      informed purchasing decision. 
 
 #### Phase 2: Additional Features
 * #### Account Page
@@ -49,11 +49,11 @@ In order to ensure a good end product and minimize the accumulation of technical
   - #### Account Page
        Upon logging in, users will be directed to their Personal Account Page, where they can manage their profile information and manage their saved items or wishlist. In the Account Page, they         can fill in or make changes to their personal information like location.
 
-* #### Liked Items Page
-    The Liked Items Page provides users with a convenient space to manage their saved items, wishlists, and preferences. Users can easily bookmark products they're interested in by clicking the       heart button next to each item throughout the platform. This can be seen in the image below. These saved items are then accessible on the Save Features Page, where users can organize them         into different categories or lists for easier reference. Additionally, users may have the option to receive notifications or updates about saved items, such as price drops or availability         changes. This feature is only available for users that have made an account as the liked items are bound to their account. This feature will help enhance the convenience of users by allowing      users to stay informed about their favorite products.
+* #### Saved Page
+    The saved page provides users with a convenient space to manage their saved items, wishlists, and preferences. Users can easily bookmark products they're interested in by clicking the             heart button next to each item throughout the platform. This can be seen in the image below. These saved items are then accessible on the Save Features Page, where users can organize them         into different categories or lists for easier reference. Additionally, users may have the option to receive notifications or updates about saved items, such as price drops or availability         changes. This feature is only available for users that have made an account as the liked items are bound to their account. This feature will help enhance the convenience of users by allowing      users to stay informed about their favorite products.
 
 ![image](https://github.com/OREL-group/Project-Management-SP-24/assets/87796548/88d3dad7-c13e-457b-8622-07b32c3d29c8) 
-* #### Additional improvements to Searched Page
+* #### Additional improvements to Item Page
 #### Phase 3: Premium Features
 
 ### Conclusion      
