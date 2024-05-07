@@ -65,4 +65,5 @@ In order to ensure a good end product and minimize the accumulation of technical
 ### References     
 
 * Gaubys, Justas. “How Many People Shop Online in 2024? [Updated Jan 2024].” Oberlo, Oberlo, www.oberlo.com/statistics/how-many-people-shop-online. Accessed 5 May 2024. 
-* Team, AMZScout. “34 Online Shopping Statistics and Facts for 2024.” AMZScout Blog, AMZScout, 23 Feb. 2024, amzscout.net/blog/online-shopping-statistics/#:~:text=The%20most%20preferred%20day%20and,hours%2Fweek%20from%20their%20offices. 
+* Team, AMZScout. “34 Online Shopping Statistics and Facts for 2024.” AMZScout Blog, AMZScout, 23 Feb. 2024, amzscout.net/blog/online-shopping-statistics/#:~:text=The%20most%20preferred%20day%20and,hours%2Fweek%20from%20their%20offices.
+* “Airpods 2nd Generation.” Honey, www.joinhoney.com/shop/apple/p/17_327ac66f92333a139fe380d199128127_eb1878af1f768832c746c080200ecba8. Accessed 6 May 2024. 
