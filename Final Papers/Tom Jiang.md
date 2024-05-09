@@ -35,11 +35,20 @@ The project is aimed to be ultimately published on PC platform eletronically via
 - The game's primary audiance should be male video game players aged 16-30 years old that primarily plays PC games and has an interest in rougelike games and card games/dungeon crawler games. 
 - The game's secondary audiance should be video game players who has had experience with darkest dungeon / slay the spire and is looking for games that incorporate elements from those two games. 
 
+### Technology & Tools
+
+
+### Project Team structure
+
+### Open source
+
 ### Project Roadmap
 
 #### Phase 1: Design & recruitment
-##### Phase 1: Design & recruitment
-- **Phase duration**: May 2024 - 
+##### 1.1: Design & recruitment
+- **Phase duration**: May 20th 2024 -  June 20th 2024
+- **Phase objectives**: 1. refine the current design
+2.s
 
 #### Phase 2: Pre-production
 
