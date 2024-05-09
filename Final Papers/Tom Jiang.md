@@ -1,15 +1,12 @@
-## TITLE
-Name, Semester, link to personal website.
+## Project Event Horizon - Rougelike Card Game
+Tom Jiang
+FA 2024
 
-111
-### Introduction/Headings    
+### Abstract 
 
-[Comment_1]: <> (begin your text here)
+In this paper, I will describe project Event Horizon, a open-source video game development. The game is a inventory based rouge-like card game, this paper will detail some management details about the project including project scope & platform, team structure, high-level project schedule & phases, and Agile sprint plan. 
 
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-
-#### Subheading
+#### About this game
 [Comment_3]: <> (begin your text here)
 
 | ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
