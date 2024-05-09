@@ -16,6 +16,9 @@ In this paper, I will describe project Event Horizon, a open-source video game d
 
 **Project inspiration**: Darkest Dungeon, Slay the Spire
 
+| ![] ![canvas](https://github.com/Tomjiang2421/Project-Management-_-Jiang/assets/112019184/2c9c3695-f934-4ffd-8651-8fb4af4ac730)| 
+| :--: |
+| <b>Figure 1.</b> Project Vision Canvas. |   
 
 #### Project Purpose
 Traditional card combat games usually excel at strategic gameplay and offers almost endless possibilities ands combinations when it comes to combat, but often lacks a bit in terms of exploration and storytelling. And the roguelike dungeon crawlers often do a good job in exploration mechanics, but often have comparably simpler combat mechanics. The project is aimed to combine the strategy-heavy card combat mechanics into traditional dungeon crawlers as well as introducing mechanics like inventory based card deck building and base building into the game. The project is aimed to bring a unique and fresh design into the video game market.
@@ -45,8 +48,5 @@ __Paragraph heading__
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
 
 
-| ![] ![canvas](https://github.com/Tomjiang2421/Project-Management-_-Jiang/assets/112019184/2c9c3695-f934-4ffd-8651-8fb4af4ac730)| 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
 [Comment_4]: <> (Insert Figure with caption here)
