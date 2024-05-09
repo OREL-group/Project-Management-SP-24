@@ -29,7 +29,11 @@ The project is aimed to be ultimately published on PC platform eletronically via
 - The game should have a complete main story line
 - The final product should have completed rougelike elements including character skill prograssion and base building
 - The final product should have completed exploration elements that has at least 3 different enemy faction/biomes and procedually generated missions & maps with difficulty progression.
-- The final product should have completed combat elements that include offer a large selection of equiptment/cards, which can be crafted or obtained through exploration & combat. Or to be further customized inside the base. 
+- The final product should have completed combat elements that include offer a large selection of equiptment/cards, which can be crafted or obtained through exploration, trading & combat. Or to be further customized.
+
+#### Target Audiance
+The 
+
 
 __Paragraph heading__         
 
