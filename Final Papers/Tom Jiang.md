@@ -44,7 +44,7 @@ This provide version control within the team, and also enables the open-sourcene
 The project will be managed with Agile methodology and team will track their issues and work using Jira. Sprint duration will be every 2 weeks.
 
 - **Communication & Meeting Platform**: Discord & Zoom<br />
-Everyday communication and updates within the team will be initiated via team’s project discord channel. A new channel will be build & managed for managing game community after the game’s beta release on steam. <br />
+Everyday communication and updates within the team will be initiated via team’s project discord channel. A new channel will be build & managed for managing game community after the game’s beta release on steam, community events like modding competitions will be hosted periodically. <br />
 Team meetings and official communications will happen via scheduled Zoom sessions. 
 
 ### Project Team structure
@@ -70,14 +70,24 @@ Handled within the team
 1 narritive/writing mentor - (1 comfirmed)
 
 ### Open source
+Although the initial development of the game will be conducted as a private project during the game's initial development. The goal is to release the game's source code on github after the game's full release, while the team will have its own core development branch to continue game's update. Modder will have access to files that can fork them to help with the development of mods/improving the game. This helps to enhence feedback and creativity within the game's modding community. Clear guidelines for the community will be esatblished for the community and its users, and development progress and milestones will be kept transparent to the community after the beta release. 
 
 ### Project Roadmap
 
-#### Phase 1: Design & recruitment
+#### Phase 1: development to reach GDC Independent game festival
 ##### 1.1: Design & recruitment
 - **Phase duration**: May 20th 2024 -  June 20th 2024
-- **Phase objectives**: 1. refine the current design
-2.s
+- **Phase objectives**:<br />
+1. conduct market research and refine the current design <br />
+2. recuirtment of core team (at least 2 coders, 1 concept artist, 2 designers, 1 production, and 2 aritst) <br />
+3. setting up project structure, roadmap, and initial documentation <br />
+
+##### 1.2: Pre-production
+- **Phase duration**: June 20th 2024 -  August 20th 2024
+- **Phase objectives**:<br />
+1. refine the current design <br />
+2. recuirtment of core team (at least 2 coders, 1 concept artist, 2 designers, 1 production, and 2 aritst) <br />
+3. setting up project structure, roadmap, and initial documentation <br />
 
 #### Phase 2: Pre-production
 
