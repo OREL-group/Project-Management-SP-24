@@ -24,24 +24,47 @@ In this paper, I will describe project Event Horizon, a open-source video game d
 Traditional card combat games usually excel at strategic gameplay and offers almost endless possibilities ands combinations when it comes to combat, but often lacks a bit in terms of exploration and storytelling. And the roguelike dungeon crawlers often do a good job in exploration mechanics, but often have comparably simpler combat mechanics. The project is aimed to combine the strategy-heavy card combat mechanics into traditional dungeon crawlers as well as introducing mechanics like inventory based card deck building and base building into the game. The project is aimed to bring a unique and fresh design into the video game market.
 
 #### Project Scope
-The project is aimed to be ultimately published on PC platform eletronically via Steam. _The game should be aimed at a launch date in Q4 2025 - Q2 2026_ 
+The project is aimed to be ultimately published on PC platform electronically via Steam. _The game should be aimed at a launch date in Q4 2025 - Q2 2026_ 
 - The main part of the game should be aimed to have a length of around 14-16 hours.
 - The game should have a complete main story line
-- The final product should have completed rougelike elements including character skill prograssion and base building
-- The final product should have completed exploration elements that has at least 3 different enemy faction/biomes and procedually generated missions & maps with difficulty progression.
-- The final product should have completed combat elements that include offer a large selection of equiptment/cards, which can be crafted or obtained through exploration, trading & combat. Or to be further customized.
+- The final product should have completed roguelike elements including character skill progression and base building
+- The final product should have completed exploration elements that has at least 3 different enemy faction/biomes and procedurally generated missions & maps with difficulty progression.
+- The final product should have completed combat elements that include offer a large selection of equipment/cards, which can be crafted or obtained through exploration, trading & combat. Or to be further customized.
 
-#### Target Audiance
-- The game's primary audiance should be male video game players aged 16-30 years old that primarily plays PC games and has an interest in rougelike games and card games/dungeon crawler games. 
-- The game's secondary audiance should be video game players who has had experience with darkest dungeon / slay the spire and is looking for games that incorporate elements from those two games. 
+#### Target Audience
+- The game's primary audience should be male video game players aged 16-30 years old that primarily plays PC games and has an interest in roguelike games and card games/dungeon crawler games. 
+- The game's secondary audience should be video game players who has had experience with darkest dungeon / slay the spire and is looking for games that incorporate elements from those two games. 
 
 ### Platform & Tools
 - **Development Platform**: Unreal engine<br />
-The reason for this choice is that the current technical build which already has the basic system structure implemented exists in Unreal engine due to current coder's extertise.
+The reason for this choice is that the current technical build which already has the basic system structure implemented exists in Unreal engine due to current coder's expertise.
 - **Version control**: Github<br />
-This provide version control within the team, and also enables the open-sourceness of this project after the game launch. The source-code of the project will be published in an aim to further help and enable game's moding community. Reference [Barotrauma](https://barotraumagame.com/uncategorized/662/) who used a similar strategy. 
+This provide version control within the team, and also enables the open-sourceness of this project after the game launch. The source-code of the project will be published in an aim to further help and enable game's modding community. Reference [Barotrauma](https://barotraumagame.com/uncategorized/662/) who used a similar strategy.
+- **Project management Platform**: Jira<br />
+The project will be managed with Agile methodology and team will track their issues and work using Jira. Sprint duration will be every 2 weeks.
+
+- **Communication & Meeting Platform**: Discord & Zoom<br />
+Everyday communication and updates within the team will be initiated via team’s project discord channel. A new channel will be build & managed for managing game community after the game’s beta release on steam. <br />
+Team meetings and official communications will happen via scheduled Zoom sessions. 
 
 ### Project Team structure
+- **Production**:
+1 project manager - (filled)
+- **Design**:
+2 designers - (empty)
+- **Programming**:
+1 programming lead - (filled) <br />
+3-4 coders - (2 currently)
+- **Art**:
+1 art lead - (empty) <br />
+1-2 concept artist(enviroment,character, prop & item ) - (empty) <br />
+3-4 artists (enviroment,character, prop & item, UI) - (empty) <br />
+- **Sound**:
+1-2 sound deisgner - (empty)
+- **QA**:
+handled within the team
+- **Writing**:
+Handled within the team
 
 ### Open source
 
