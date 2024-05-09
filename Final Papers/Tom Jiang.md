@@ -35,8 +35,11 @@ The project is aimed to be ultimately published on PC platform eletronically via
 - The game's primary audiance should be male video game players aged 16-30 years old that primarily plays PC games and has an interest in rougelike games and card games/dungeon crawler games. 
 - The game's secondary audiance should be video game players who has had experience with darkest dungeon / slay the spire and is looking for games that incorporate elements from those two games. 
 
-### Technology & Tools
-
+### Platform & Tools
+- **Development Platform**: Unreal engine<br />
+The reason for this choice is that the current technical build which already has the basic system structure implemented exists in Unreal engine due to current coder's extertise.
+- **Version control**: Github<br />
+This provide version control within the team, and also enables the open-sourceness of this project after the game launch. The source-code of the project will be published in an aim to further help and enable game's moding community. Reference [Barotrauma](picturehttps://barotraumagame.com/uncategorized/662/) who used a similar strategy. 
 
 ### Project Team structure
 
@@ -73,6 +76,5 @@ __Paragraph heading__
 
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
 
-
-
+<br />
 [Comment_4]: <> (Insert Figure with caption here)
