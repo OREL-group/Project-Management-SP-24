@@ -17,9 +17,16 @@ In this paper, I will describe project Event Horizon, a open-source video game d
 **Project inspiration**: Darkest Dungeon, Slay the Spire
 
 
-#### Project scope & Purpose     
+#### Project Purpose
+Traditional card combat games usually excel at strategic gameplay and offers almost endless possibilities ands combinations when it comes to combat, but often lacks a bit in terms of exploration and storytelling. And the roguelike dungeon crawlers often do a good job in exploration mechanics, but often have comparably simpler combat mechanics. The project is aimed to combine the strategy-heavy card combat mechanics into traditional dungeon crawlers as well as introducing mechanics like inventory based card deck building and base building into the game. The project is aimed to bring a unique and fresh design into the video game market.
 
-[Comment_5]: <> (begin your text here)
+#### Project Scope
+The project is aimed to be ultimately published on PC platform eletronically via Steam. _The game should be aimed at a launch date in Q4 2025 - Q2 2026_ 
+- The main part of the game should be aimed to have a length of around 14-16 hours.
+- The game should have a complete main story line
+- The final product should have completed rougelike elements including character skill prograssion and base building
+- The final product should have completed exploration elements that has at least 3 different enemy faction/biomes and procedually generated missions & maps with difficulty progression.
+- The final product should have completed combat elements that include offer a large selection of equiptment/cards, which can be crafted or obtained through exploration & combat. Or to be further customized inside the base. 
 
 __Paragraph heading__         
 
@@ -38,7 +45,7 @@ __Paragraph heading__
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
 
 
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
+| ![] ![canvas](https://github.com/Tomjiang2421/Project-Management-_-Jiang/assets/112019184/2c9c3695-f934-4ffd-8651-8fb4af4ac730)| 
 | :--: |
 | <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
