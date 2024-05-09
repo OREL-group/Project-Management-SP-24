@@ -6,8 +6,12 @@ FA 2024
 
 In this paper, I will describe project Event Horizon, a open-source video game development. The game is a inventory based rouge-like card game, this paper will detail some management details about the project including project scope & platform, team structure, high-level project schedule & phases, and Agile sprint plan. 
 
-__About this game__
-[Comment_3]: <> (begin your text here)
+### Project description
+
+#### Game description     
+The game is 2D side-scrolling rouge-like card game mainly inspired by Darkest Dungeon and Slay in Spire.
+
+**Core Pillar & description**
 
 | ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
 | :--: |
