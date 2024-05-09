@@ -10,17 +10,11 @@ In this paper, I will describe project Event Horizon, a open-source video game d
 
 #### Project description
 
-**Project Name**
-Event horizon 
+**Project Name**: Event horizon 
 
-**Project genre**
-Rouge-like
-Dungeon Crawler
-Card combat
+**Project genre**: Rouge-like, Dungeon Crawler, Card combat
 
-**Project inspiration**
-Darkest Dungeon
-Slay the Spire
+**Project inspiration**: Darkest Dungeon, Slay the Spire
 
 
 #### Project scope & Purpose     
