@@ -122,5 +122,7 @@ This term paper has explored the various facets of managing an open-source block
 
 ### Work Cited
 Fogel, Karl. “Producing Open Source Software.” Producing Open Source Software, producingoss.com/. Accessed 8 May 2024. 
+
 Raymond, E. S. “The Cathedral and the Bazaar.” First Monday, vol. 10, no. SPEC. ISS. 2, Oct. 2005. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-37849185228&site=eds-live&scope=site.
+
 Don Tapscott, and Alex Tapscott. Blockchain Revolution : How the Technology Behind Bitcoin Is Changing Money, Business, and the World. Portfolio, 2016. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1148059&site=eds-live&scope=site.
