@@ -48,23 +48,26 @@ Everyday communication and updates within the team will be initiated via team’
 Team meetings and official communications will happen via scheduled Zoom sessions. 
 
 ### Project Team structure
-- **Production**:
+- **Production**:<br />
 1 project manager - (filled)
-- **Design**:
+- **Design**:<br />
 2 designers - (empty)
-- **Programming**:
+- **Programming**:<br />
 1 programming lead - (filled) <br />
 3-4 coders - (2 currently)
-- **Art**:
+- **Art**: <br />
 1 art lead - (empty) <br />
 1-2 concept artist(enviroment,character, prop & item ) - (empty) <br />
 3-4 artists (enviroment,character, prop & item, UI) - (empty) <br />
-- **Sound**:
+- **Sound**:<br />
 1-2 sound deisgner - (empty)
-- **QA**:
+- **QA**:<br />
 handled within the team
-- **Writing**:
+- **Writing**:<br />
 Handled within the team
+- **Industry Mentor**:<br />
+1-2 production mentor - (1 comfirmed, 1 awaiting comfirmation)<br />
+1 narritive/writing mentor - (1 comfirmed)
 
 ### Open source
 
