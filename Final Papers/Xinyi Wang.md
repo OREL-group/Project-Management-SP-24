@@ -1,4 +1,4 @@
-![image](https://github.com/OREL-group/Project-Management-SP-24/assets/156830168/14ca9cfe-aa10-4a04-9190-310f4bc4da21)## Gamification Learning Platform
+## Gamification Learning Platform
 
 Xinyi Wang, SP24.
 
