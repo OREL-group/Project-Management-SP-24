@@ -51,9 +51,13 @@ We are not only creating a new way for the University of Illinois at Urbana-Cham
 ### References     
 - Koblyakov, P. (2023). Top 5 Open-Source Gamification Tools in 2023. Raccoon Gang. Retrieved 22 February 2023,
 https://raccoongang.com/blog/top-5-open-source-gamification-tools-2021/#1-open-edx
+- TechnologyAdvice. (2013). Badgeville Gamification Demo. YouTube. https://www.youtube.com/watch?v=Ht9hersYe6w&ab_channel=TechnologyAdvice
+- Gamification. (2013). Gamification: 3-min overview from Badgeville. YouTube. https://www.youtube.com/watch?v=gHOL5vQ9mIQ&ab_channel=Gamification
 - Dogra, A., (2018). Gamification for Learning_we found the formula.  KidSmart. https://kidsmartapp.co.uk/content/articles/gamification-for-learning-formula/
 - How to Implement Gamification in Your Training Strategy. ELM Learning. https://elmlearning.com/hub/elearning/gamification/
 - Banerjee, P. (2022). Gamification in Education: Definition, Strategies & Examples. Pickcel. https://www.pickcel.com/blog/gamification-in-education-complete-guide/
 - Roland, J. (2016). Does Gamification Education Really Improve Learning? Insights. https://insights.samsung.com/2016/07/19/does-gamification-education-really-improve-learning/
+- Drupal. (2024). Badgeville Gamification. https://www.drupal.org/project/badgeville_gamification
+  
 
 
