@@ -1,4 +1,4 @@
-## Gamification Learning Platform
+## Gamifying Education with Open edX
 
 Xinyi Wang, SP24.
 
