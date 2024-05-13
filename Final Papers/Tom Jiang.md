@@ -4,7 +4,7 @@ FA 2024
 
 ### Abstract 
 
-In this paper, I will describe project Event Horizon, a open-source video game development. The game is a inventory based rouge-like card game, this paper will detail some management details about the project including project scope & platform, team structure, high-level project schedule & phases, and Agile sprint plan. 
+In this paper, I will describe project Event Horizon, a open-source video game development. The game is a inventory based rouge-like card game, this paper will detail some management details about the project including project scope & platform, team structure, high-level project schedule & phases, Agile sprint plan, and Project Chanlleges. 
 
 ### Introduction
 
@@ -75,6 +75,7 @@ Although the initial development of the game will be conducted as a private proj
 ### Project Roadmap
 
 #### Phase 1: development to reach GDC Independent game festival
+GDC independent game festival would be a good opputunity for the game to gain publicity and meet potiential publishers/investors. Although the festival itself is on March, the deadline for handing in materials is October, which will act as our first milestone.
 ##### 1.1: Design & recruitment
 - **Phase duration**: May 20th 2024 -  June 20th 2024
 - **Phase objectives**:<br />
@@ -89,7 +90,53 @@ Although the initial development of the game will be conducted as a private proj
 2. recuirtment of core team (at least 2 coders, 1 concept artist, 2 designers, 1 production, and 2 aritst) <br />
 3. setting up project structure, roadmap, and initial documentation <br />
 
-#### Phase 2: Pre-production
+##### 1.3: Enter production
+- **Phase duration**: August 20th 2024 - Oct 2024
+- **Phase objectives**:<br />
+1. Art asset creation and implementation
+2. Expansion of game content
+3. Playtesting and refinement
+
+#### Phase 2: Releasing steam beta & hitting next fest
+Steam beta will be a great oppunity to test out market feedback + collect alot of playtest feedback. Next Fest would be a opputunity for marketing. 
+##### 2.1: Production & beta publishing
+- **Phase duration**: November 1st, 2024 - Feb 2025
+- **Phase objectives**:<br />
+1. Continue expanding features & art
+2. Testing & Releasing beta build
+3. Advertisement & publication for steam beta
+4. Data collection and feedback analysis
+
+#### Phase 3: Continue development & Tencent GWB 
+Tencent GWB is a good opputunity to meet with publisher & developer for the Asia market, also since the competition is fairly new, lower amount of competition can probably be expected. 
+##### 3.1: Continue production
+- **Phase duration**: November, 2024 - Feb 2025
+- **Phase objectives**:<br />
+1. Game improvment based on beta reception
+2. Further feature & art expansion
+3. Marketing & foster community growth
+4. Managing community & increase social capital through community discord
+   
+#### Phase 4: 1.0 Release
+One major milestone for the project is the 
+##### 3.1: Continue production
+- **Phase duration**: Feb 2025 - Oct 2025
+- **Phase objectives**:<br />
+1. Game improvment based on beta reception
+2. Further feature & art expansion
+3. Marketing & foster community growth
+4. Managing community & increase social capital through community discord
+
+#### Phase 4: Continue development & Tencent GWB 
+Tencent GWB is a good opputunity to meet with publisher & developer for the Asia market, also since the competition is fairly new, lower amount of competition can probably be expected. 
+##### 3.1: Continue production
+- **Phase duration**: November 1st, 2024 - Feb 2025
+- **Phase objectives**:<br />
+1. Game improvment based on beta reception
+2. Further feature & art expansion
+3. Marketing & foster community growth
+4. Managing community & increase social capital through community discord
+
 
 #### Phase 3: Production
 
