@@ -170,7 +170,7 @@ As mentioned in challenge 1, the team members will likely come and go throughout
 This project serves as an attempt of remixing two genres of games to utilize the strength of both genres. The way the project is managed and planned also serves as a test to the commercial production -> open-source model of game development. The end result is aimed to foster a creative community of players that can help to grow and improve the game's content through modding and feedback, thus improving the project's playability and content despite only having a limited amount of core development team.
 
 
-### References     
+### X. References     
 
 “Why It Infrastructure Should Use Agile Sprint Cycles (Scrum).” Agdiwo, 30 Nov. 2022, www.agdiwo.com/en/agile-infrastructure/.  <br/>
 Zuhdi, Muhammad. “Agile Software Development - A Game Changer of Software Development Process.” Medium, Medium, 5 May 2021, mzuhdiz.medium.com/agile-software-development-a-game-changer-of-software-development-process-d52933246c28. 
