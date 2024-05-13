@@ -172,7 +172,7 @@ This project serves as an attempt of remixing two genres of games to utilize the
 
 ### X. References     
 
-“Why It Infrastructure Should Use Agile Sprint Cycles (Scrum).” Agdiwo, 30 Nov. 2022, www.agdiwo.com/en/agile-infrastructure/.  <br/>
+“Why It Infrastructure Should Use Agile Sprint Cycles (Scrum).” Agdiwo, 30 Nov. 2022, www.agdiwo.com/en/agile-infrastructure/.  <br/><br/>
 Zuhdi, Muhammad. “Agile Software Development - A Game Changer of Software Development Process.” Medium, Medium, 5 May 2021, mzuhdiz.medium.com/agile-software-development-a-game-changer-of-software-development-process-d52933246c28. 
 
 
