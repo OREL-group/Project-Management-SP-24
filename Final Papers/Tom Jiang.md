@@ -2,11 +2,11 @@
 Tom Jiang
 FA 2024
 
-### Abstract 
+### I. Abstract 
 
 In this paper, I will describe project Event Horizon, a open-source video game development. The game is a inventory based rouge-like card game, this paper will detail some management details about the project including project scope & platform, team structure, high-level project schedule & phases, Agile sprint plan, and Project Chanlleges. 
 
-### Introduction
+### II. Introduction
 
 #### Project description
 
@@ -35,7 +35,7 @@ The project is aimed to be ultimately published on PC platform electronically vi
 - The game's primary audience should be male video game players aged 16-30 years old that primarily plays PC games and has an interest in roguelike games and card games/dungeon crawler games. 
 - The game's secondary audience should be video game players who has had experience with darkest dungeon / slay the spire and is looking for games that incorporate elements from those two games. 
 
-### Platform & Tools
+### III. Platform & Tools
 - **Development Platform**: Unreal engine<br />
 The reason for this choice is that the current technical build which already has the basic system structure implemented exists in Unreal engine due to current coder's expertise.
 - **Version control**: Github<br />
@@ -47,7 +47,7 @@ The project will be managed with Agile methodology and team will track their iss
 Everyday communication and updates within the team will be initiated via team’s project discord channel. A new channel will be build & managed for managing game community after the game’s beta release on steam, community events like modding competitions will be hosted periodically. <br />
 Team meetings and official communications will happen via scheduled Zoom sessions. 
 
-### Project Team structure
+### IV. Project Team structure
 - **Production**:<br />
 1 project manager - (filled)
 - **Design**:<br />
@@ -69,10 +69,10 @@ Handled within the team
 1-2 production mentor - (1 comfirmed, 1 awaiting comfirmation)<br />
 1 narritive/writing mentor - (1 comfirmed)
 
-### Open source
+### V. Open source
 Although the initial development of the game will be conducted as a private project during the game's initial development. The goal is to release the game's source code on github after the game's full release, while the team will have its own core development branch to continue game's update. Modder will have access to files that can fork them to help with the development of mods/improving the game. This helps to enhence feedback and creativity within the game's modding community. Clear guidelines for the community will be esatblished for the community and its users, and development progress and milestones will be kept transparent to the community after the beta release. 
 
-### Project Roadmap
+### VI. Project Roadmap
 
 #### Phase 1: development to reach GDC Independent game festival
 GDC independent game festival would be a good opputunity for the game to gain publicity and meet potiential publishers/investors. Although the festival itself is on March, the deadline for handing in materials is October, which will act as our first milestone.
@@ -118,29 +118,36 @@ Tencent GWB is a good opputunity to meet with publisher & developer for the Asia
 4. Managing community & increase social capital through community discord
    
 #### Phase 4: 1.0 Release
-One major milestone for the project is the 
-##### 3.1: Continue production
+This is official release of the game to steam platform, alot of publishing & marketing prepreations needed as well as expected influx of need for hotfixes and balancing from the 1.0 feedback. For project scope, check section II. 
+##### 4.1: Production & Game publication
 - **Phase duration**: Feb 2025 - Oct 2025
 - **Phase objectives**:<br />
-1. Game improvment based on beta reception
-2. Further feature & art expansion
-3. Marketing & foster community growth
-4. Managing community & increase social capital through community discord
+1. Game improvment based on GWB reception
+2. Marketing & Publishing preparation for 1.0 release
+3. Publication of 1.0 release on steam
+4. Data collection and analyzation from player feedback
 
-#### Phase 4: Continue development & Tencent GWB 
-Tencent GWB is a good opputunity to meet with publisher & developer for the Asia market, also since the competition is fairly new, lower amount of competition can probably be expected. 
-##### 3.1: Continue production
-- **Phase duration**: November 1st, 2024 - Feb 2025
+#### Phase 5: Bug fixes, source-code release 
+This is the phase where the project goes open-source. Before that, balancing and hotfixes need to happen to bring the project into a stable phase. For open-source principles, check section V. After this phase, post-launch development will happen. But scope won't be specified in this document.
+##### 5.1: Bug fixes, balancing & go open source
+- **Phase duration**: Oct 2025 - Dec 2025
 - **Phase objectives**:<br />
-1. Game improvment based on beta reception
-2. Further feature & art expansion
-3. Marketing & foster community growth
-4. Managing community & increase social capital through community discord
+1. Hotfixes, balancing & bug fix updates based on player feedback.
+2. Bring game to a stable build
+4. Draft neccesary documents & guidelines for project to go open source
+5. Release source code on github
+6. Provide community support and foster after open-source change
+7. Post launch updates
+
+### VII. Sprint Plan
+The project will be managed through a mix of Agil and Waterflow methodologies. On the higher level, the project's development iwll be divided into individual 2-week sprints. Where team will go through the sprint planning, sprint review, sprint retro cycle every single sprint. All teams (programming, art, desigm, sound, QA, writing, production) will work largely in parallel and make every single sprint a repeatable cycle of design, testing and iteration. However in the meantime, when it comes to art asset creation, the artists' tasks will be tracked largely via traditional waterfall methods where their work will be based on an asset list (which traslate to the project backlog). Same goes to the open-source part of the project, where issues reported & suggested through github will be listed and assigned via traditional waterfall method. <br />
+
+For the sprint plan specifically, the start of every sprint will be when the sprint retro & planning took place. And throughout the 
 
 
-#### Phase 3: Production
-
-#### Phase 1: Design & recruitment
+| ![] ![sprint plan](https://github.com/Tomjiang2421/Project-Management-_-Jiang/assets/112019184/94b2b595-bafb-4ef8-a3ac-14d7939df2b6)| 
+| :--: |
+| <b>Figure 2.</b> Project sprint plan. |   
 
 
 __Paragraph heading__         
