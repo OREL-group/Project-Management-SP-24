@@ -1,4 +1,4 @@
-## Project Event Horizon - Rougelike Card Game
+## Project Event Horizon - Roguelike Card Game
 Tom Jiang <br/>
 FA 2024
 
