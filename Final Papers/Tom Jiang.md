@@ -70,7 +70,7 @@ Handled within the team
 1 narrative/writing mentor - (1 confirmed)
 
 ### V. Open source
-Although the initial development of the game will be conducted as a private project during the game's initial development. The goal is to release the game's source code on GitHub after the game's full release, while the team will have its own core development branch to continue game's update. Modder will have access to files that can fork them to help with the development of mods/improving the game. This helps to enhence feedback and creativity within the game's modding community. Clear guidelines for the community will be established for the community and its users, and development progress and milestones will be kept transparent to the community after the beta release.
+Although the initial development of the game will be conducted as a private project during the game's initial development. The goal is to release the game's source code on GitHub after the game's full release, while the team will have its own core development branch to continue game's update. Modder will have access to files that can fork them to help with the development of mods/improving the game. This helps to enhance feedback and creativity within the game's modding community. Clear guidelines for the community will be established for the community and its users, and development progress and milestones will be kept transparent to the community after the beta release.
 
 ### VI. Project Roadmap
 
