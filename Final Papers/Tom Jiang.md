@@ -142,22 +142,33 @@ This is the phase where the project goes open-source. Before that, balancing and
 ### VII. Sprint Plan
 The project will be managed through a mix of Agil and Waterflow methodologies. On the higher level, the project's development iwll be divided into individual 2-week sprints. Where team will go through the sprint planning, sprint review, sprint retro cycle every single sprint. All teams (programming, art, desigm, sound, QA, writing, production) will work largely in parallel and make every single sprint a repeatable cycle of design, testing and iteration. However in the meantime, when it comes to art asset creation, the artists' tasks will be tracked largely via traditional waterfall methods where their work will be based on an asset list (which traslate to the project backlog). Same goes to the open-source part of the project, where issues reported & suggested through github will be listed and assigned via traditional waterfall method. <br />
 
-For the sprint plan specifically, the start of every sprint will be when the sprint retro & planning took place. And throughout the 
-
+For the sprint plan specifically, the start of every sprint will be when the sprint retro & planning took place. And throughout the sprint, stand-up meetings will take place every 3 days. This is a short virtual team meeting that took around 2-3 minutes from each individual members. And during the stand-up meeting members will showcase their current progress, identify potiential roadblocks, and request assistance from other team members needed. This will serve as an effective way to increase team communication and asist in identifying the roadblocks in the project effecienctly. 
 
 | ![] ![sprint plan](https://github.com/Tomjiang2421/Project-Management-_-Jiang/assets/112019184/94b2b595-bafb-4ef8-a3ac-14d7939df2b6)| 
 | :--: |
 | <b>Figure 2.</b> Project sprint plan. |   
 
+### VIII. Chanlleges
+#### 1. Technical Debt 
+##### Challenge description 
+A lot of technical debt can be projected for this project, especially during the later and final stages of production. Since the team is all students with personal interest, the coding expertise level will vary between people across the programing team. Additionally, changes in the team size will likely happen constantly through out the project because of the student status for the team members, people will likely join and leave constant due to circumstances such as graduation, academical and personal work. All of these causes complications in work transition which increases the chance of technical debt to appear.  
 
-__Paragraph heading__         
+##### Challenge solution
+- Frequent programmer meetings, mandatory sprint code review and merge review meetings
+- Early notice for instances when a programmer is leaving the team, find replacement early and onboard when the programmer that is leaving is still in the team to ensure smoother transition of work.
 
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+#### 2. Unstable schedule
+##### Challenge description 
+As mentioned in chanllege 1, the team members will likely come and go throughout the project duration. Added to this, team member's aviliablity in terms of number of hours they can contribute each week varies very heavily. Situations like mid-term, break, or exams can heavily impact one's aviliablity, so the progress of the sprint will likely shift around alot throughout development. The team's overall inexeprience also makes schedule estiamtion very difficult, causing possibility in needed adjustments to the high-level milestones and schedule. 
+
+##### Challenge solution
+- Establish frequent and open communication inside the team when it comes to noticing about situation that can impact one's aviliablity
+- Frequent communication to mentors with industry exeprience to provide better time estimation and monitor over overall schedule. 
 
 
-### Conclusion      
 
-[Comment_7]: <> (begin your text here)
+### IX. Conclusion      
+This project serves as an attempt of remixing two genres of games to utilize the strength of both genres. The way the project is managed and planned also serves as a test to the commercial production -> open-source model of game development. The end result is aimed to foster a creative community of players that can help to grow and improve the game's content through modding and feedbacks, thus improving the project's plability and size dispite only having a limited amount of core development team. 
 
 
 ### References     
