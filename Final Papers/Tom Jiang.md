@@ -4,7 +4,7 @@ FA 2024
 
 ### I. Abstract 
 
-In this paper, I will describe project Event Horizon, an open-source video game development project. The game is an inventory-based rouge-like card game, and this paper will describe some management details about the project including project scope & platform, team structure, high-level project schedule & phases, Agile sprint plan, and Project Challenges.
+In this paper, I will describe project Event Horizon, an open-source video game development project. The game is an inventory-based roguelike card game, and this paper will describe some management details about the project including project scope & platform, team structure, high-level project schedule & phases, Agile sprint plan, and Project Challenges.
 
 ### II. Introduction
 
@@ -12,7 +12,7 @@ In this paper, I will describe project Event Horizon, an open-source video game 
 
 **Project Name**: Event horizon 
 
-**Project genre**: Rouge-like, Dungeon Crawler, Card combat
+**Project genre**: Roguelike, Dungeon Crawler, Card combat
 
 **Project inspiration**: Darkest Dungeon, Slay the Spire
 
