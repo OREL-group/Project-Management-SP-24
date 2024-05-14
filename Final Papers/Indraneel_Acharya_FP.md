@@ -1,5 +1,5 @@
 # Open Source Transformation of Blindside: Protecting Children through Community and Technology
-
+Neel Acharya, Spring 2024
 ## Abstract
 Blindside represents a pioneering open-source software initiative aimed at enhancing online safety through advanced content moderation techniques. This project focuses on the development of an AI-driven tool to detect and moderate child sexual abuse material (CSAM) across digital platforms. By leveraging open-source principles, Blindside encourages collaboration and innovation within a global community, aiming to set a new industry standard in content moderation technology. This paper discusses the project's design, community-driven development model, and the broader impact on promoting a safer online environment.
 
