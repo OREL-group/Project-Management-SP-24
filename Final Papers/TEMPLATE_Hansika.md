@@ -3,7 +3,7 @@ Hansika Gaddamanugu, Spring 2024
 
 
 ### Introduction/Headings    
-
+![image](https://github.com/OREL-group/Project-Management-SP-24/blob/main/Final%20Papers/0_N_INfwxyGQBzoucK.jpg)
 ### Abstract
 In the realm of fashion, sustainability is a growing concern. Yet, accessing reliable information and resources on ethical fashion practices can be challenging. The Sustainable Threads project aims to address this gap by creating an open-source digital platform tailored for fashion enthusiasts seeking sustainable alternatives. This paper outlines the project's vision, target audience, implementation strategies, and the utilization of open-source principles for effective project management.
 
